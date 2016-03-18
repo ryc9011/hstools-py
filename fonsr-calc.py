@@ -6,7 +6,7 @@ print("3. 2x FoN+1x SR") #Thaurissan and/or Innervate
 print("4. 2x FoN+2x SR") #Thaurissan and/or Innervate. Almost always game over
 combo_choice = int(input("Choose option 1, 2, 3, or 4. "))
 if combo_choice != 1 and combo_choice != 2 and combo_choice != 3 and combo_choice != 4:
-    print("You have selected an invalid option. ")
+    print("You have selected an invalid option.")
     combo_choice = int(input("Please select option 1, 2, 3, or 4. "))
 if combo_choice == 1:
     #base damage is 14
