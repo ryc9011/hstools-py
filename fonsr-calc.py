@@ -1,5 +1,5 @@
 ######################################################################################
-#NOTE: Blizzard nerfed Force of Nature, so the spawned Treants no longer have charge.#
+#NOTE: Blizzard nerfed Force of Nature, so the spawned Treants no longer have Charge.#
 #Therefore, this calculator is invalid and no longer applicable.                     #
 ######################################################################################
 print("Damage calculator for FoN/SR Combos. NOTE: It is assumed that your board has enough space for all the Treants.")
