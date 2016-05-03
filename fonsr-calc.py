@@ -1,3 +1,7 @@
+######################################################################################
+#NOTE: Blizzard nerfed Force of Nature, so the spawned Treants no longer have charge.#
+#Therefore, this calculator is invalid and no longer applicable.                     #
+######################################################################################
 print("Damage calculator for FoN/SR Combos. NOTE: It is assumed that your board has enough space for all the Treants.")
 print("Which combo do you currently have?")
 print("1. Standard FoN+SR") #Normal combo
