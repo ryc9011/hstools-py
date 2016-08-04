@@ -1,2 +1,2 @@
 # hstools-py
-Useful Python tools for Hearthstone
+Useful Python tool(s?) for Hearthstone
